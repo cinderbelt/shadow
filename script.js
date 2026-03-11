@@ -25,7 +25,7 @@ color1.addEventListener("input", setGradient);
 
 color2.addEventListener("input", setGradient);
 
-
+console.log('hello');
 function getRandomColor() {
 	var letters = '0123456789ABCDEF';
 	var color = '#';
